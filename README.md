@@ -7,6 +7,7 @@ links, articles, videos, etc
 --------------
 
 ### July
+- [Day 31](https://github.com/suuuzi/dailylog/blob/master/jul/31.md) `frontend` `clean code`
 - [Day 17-23](https://github.com/suuuzi/dailylog/blob/master/jul/17-23.md) `ui`
 
 ### June
