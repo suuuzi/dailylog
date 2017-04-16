@@ -2,6 +2,12 @@ dailylog
 -----------
 links, articles, videos, etc
 
+2017
+-------------
+### April
+- [April log](https://github.com/suuuzi/dailylog/blob/master/2017-april.md) `raspberry pi` `CI`
+- [RPI Gist](https://gist.github.com/suuuzi/4d3f7f73f8f53f044e7add01f2f468db) `hello world` `tutorials ` `projects` `resources`
+
 
 2016
 --------------
